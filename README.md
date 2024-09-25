@@ -6,4 +6,6 @@ Apasionado desarrollador Full Stack semi senior con sólida experiencia en la im
 Mi conjunto de habilidades técnicas abarca diversas tecnologías, incluyendo PHP, JavaScript, Docker, Jenkins y Gitlab. En el ámbito de los frameworks, tengo experiencia destacada en Laravel para el lado del servidor, mientras que en el lado del cliente, me destaco en el uso de Angular y Next. Estoy comprometido con mantenerme actualizado con las últimas tendencias tecnológicas para ofrecer soluciones innovadoras y eficaces en cada proyecto.
 
 ## Languages
-Nueva sección
+- Español
+- Ingles
+- Italiano
